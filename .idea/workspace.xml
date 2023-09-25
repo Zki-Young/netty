@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dee898d4-91d6-4823-a602-fa7bffa2a184" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:/Program Files/Apache/Maven/apache-maven-3.8.4\repository" />
+        <option name="mavenHome" value="F:/Program Files/Apache/Maven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="F:\Program Files\Apache\Maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VGwLpFtWOCr6kq9KXv7MbwPLna" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/cn/itcast" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/netty-demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="cn.itcast.server.handler" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.netty.c03_eventloopserver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChatClient">
+    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.client.ChatClient" />
+      <module name="netty-demo (1) (org.example)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.server.ChatServer" />
+      <module name="netty-demo (1) (org.example)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PotocolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.PotocolTest" />
+      <module name="diy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PotocolTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.PotocolTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PotocolTest.testEncodeAndDecode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.PotocolTest" />
+      <option name="METHOD_NAME" value="testEncodeAndDecode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PotocolTest" />
+      <item itemvalue="JUnit.PotocolTest.test" />
+      <item itemvalue="JUnit.PotocolTest.testEncodeAndDecode" />
+      <item itemvalue="Application.ChatServer" />
+      <item itemvalue="Application.ChatClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="JUnit.PotocolTest.testEncodeAndDecode" />
+        <item itemvalue="JUnit.PotocolTest.test" />
+        <item itemvalue="Application.PotocolTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee898d4-91d6-4823-a602-fa7bffa2a184" name="Default Changelist" comment="" />
+      <created>1694475671297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694475671297</updated>
+      <workItem from="1694475673508" duration="7720000" />
+      <workItem from="1694485893626" duration="85000" />
+      <workItem from="1694486027611" duration="45218000" />
+      <workItem from="1694736089654" duration="3674000" />
+      <workItem from="1694760952806" duration="565000" />
+      <workItem from="1695001230978" duration="34098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2360" y="99" key="#Project_Structure" timestamp="1694485035190">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2360" y="99" key="#Project_Structure/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1694485035190" />
+    <state x="2334" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1694595251181">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2334" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1694595251181" />
+    <state x="2685" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1695112367089">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2685" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695112367089" />
+    <state x="612" y="191" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1694675420295" />
+    <state x="2396" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1695118992298">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2396" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695118992298" />
+    <state x="2656" y="365" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog" timestamp="1695119001823">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2656" y="365" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695119001823" />
+    <state x="3162" y="37" width="490" height="532" key="#xdebugger.evaluate" timestamp="1694503086490">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="3162" y="37" width="490" height="532" key="#xdebugger.evaluate/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1694503086490" />
+    <state x="2660" y="279" key="FileChooserDialogImpl" timestamp="1695119031696">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="279" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695119031696" />
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1695119036691">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695119036691" />
+    <state width="1877" height="384" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1694760882857" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1695119036691">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695119036691" />
+    <state width="1877" height="384" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1694760882854" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1695119036691">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695119036691" />
+    <state width="1877" height="384" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1694760882853" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1695119036691">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695119036691" />
+    <state width="1877" height="384" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1694760882855" />
+    <state width="1877" height="159" key="GridCell.Tab.1.bottom" timestamp="1695113345021">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="159" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695113345021" />
+    <state width="1877" height="384" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1694760882861" />
+    <state width="1877" height="159" key="GridCell.Tab.1.center" timestamp="1695113345020">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="159" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695113345020" />
+    <state width="1877" height="384" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1694760882858" />
+    <state width="1877" height="159" key="GridCell.Tab.1.left" timestamp="1695113345020">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="159" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695113345020" />
+    <state width="1877" height="384" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1694760882858" />
+    <state width="1877" height="159" key="GridCell.Tab.1.right" timestamp="1695113345020">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="159" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695113345020" />
+    <state width="1877" height="384" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1694760882860" />
+    <state x="2301" y="249" key="NewModule_or_Project.wizard" timestamp="1695109818291">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2301" y="249" key="NewModule_or_Project.wizard/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695109818291" />
+    <state x="2141" y="120" key="SettingsEditor" timestamp="1695109824464">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2141" y="120" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695109824464" />
+    <state x="2601" y="266" width="540" height="524" key="StructurePopup" timestamp="1694520620900">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2601" y="266" width="540" height="524" key="StructurePopup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1694520620900" />
+    <state width="532" height="446" key="SwitcherDM" timestamp="1695110335338">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="532" height="446" key="SwitcherDM/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695110335338" />
+    <state x="2676" y="302" key="chooseDestDirectoryDialog" timestamp="1695118917699">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2676" y="302" key="chooseDestDirectoryDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695118917699" />
+    <state x="2456" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1695083854438">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2456" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695083854438" />
+    <state x="429" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1694675443199" />
+    <state x="2842" y="300" key="extract.method.dialog" timestamp="1695112740286">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2842" y="300" key="extract.method.dialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695112740286" />
+    <state x="2513" y="185" key="new project wizard" timestamp="1695085828298">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2513" y="185" key="new project wizard/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695085828298" />
+    <state x="2536" y="243" key="run.anything.popup" timestamp="1695114532324">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2536" y="243" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695114532324" />
+    <state x="2543" y="227" width="672" height="160" key="search.everywhere.popup" timestamp="1695111031072">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2543" y="227" width="672" height="160" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1695111031072" />
+  </component>
+</project>
